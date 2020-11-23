@@ -46,7 +46,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/artemglinov/sfg-pet-clinic.git</developerConnection>
-        <tag>0.0.1</tag>
+        <tag>sfg-pet-clinic-0.0.1</tag>
     </scm>
 
 </project>

@@ -37,7 +37,6 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>2.5.3</version>
                 <configuration>
                     <goals>install</goals>
                 </configuration>
@@ -46,10 +45,9 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/artemglinov/sfg-pet-clinic.git</developerConnection>
-        <connection>scm:git:https://github.com/artemglinov/sfg-pet-clinic.git</connection>
-        <url>https://github.com/artemglinov/sfg-pet-clinic.git</url>
-        <tag>sfg-pet-clinic-0.0.1</tag>
+        <developerConnection>scm:git:git@github.com:artemglinov/sfg-pet-clinic.git</developerConnection>
+        <!--        <connection>scm:git:https://github.com/artemglinov/sfg-pet-clinic.git</connection>-->
+        <!--        <url>https://github.com/artemglinov/sfg-pet-clinic.git</url>-->
     </scm>
 
 </project>
